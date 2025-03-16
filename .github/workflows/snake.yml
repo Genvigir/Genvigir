@@ -1,0 +1,22 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake game from commits
+        uses: Platane/snk@master
+        with:
+          github_user_name: Genvigir
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push the generated snake.svg
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-artifact
+          path: dist/github-contribution-grid-snake.svg
