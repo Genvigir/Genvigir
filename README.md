@@ -83,5 +83,9 @@
 - Estudando UX, UI e Design System.
 
 <p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Genvigir/Genvigir/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Genvigir/Genvigir/output/github-snake.svg"/>
 <img src="https://raw.githubusercontent.com/Genvigir/Genvigir/output/github-snake.svg" alt="Cobra comendo as contribuições do GitHub"/>
+</picture>
 </p>
