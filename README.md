@@ -32,7 +32,7 @@
 |---|---|---|
 | **VL Barbearia** | SaaS de agendamento para barbearia, com painel de gestão, relatórios, pagamentos e integração com WhatsApp. | Produto, UX, desenvolvimento com IA |
 
-**Estudando:** UX, UI e Design System, praticando no Figma.
+**Estudando:** UX, UI e Design System, praticando no Figma, Lovable e Paper Design.
 
 ## Ferramentas
 
@@ -66,6 +66,8 @@
 <img src="https://img.shields.io/badge/UI-7B61FF?style=for-the-badge" alt="UI"/>
 <img src="https://img.shields.io/badge/Design_System-7B61FF?style=for-the-badge" alt="Design System"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+<img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge" alt="Lovable"/>
+<img src="https://img.shields.io/badge/Paper_Design-1A1A1A?style=for-the-badge" alt="Paper Design"/>
 </p>
 
 **IA e código**
